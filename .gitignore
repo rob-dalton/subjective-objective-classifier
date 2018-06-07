@@ -2,6 +2,4 @@ __pycache__
 *.swp
 *.pyc
 *.sql
-*.json
-*.sql
 data
