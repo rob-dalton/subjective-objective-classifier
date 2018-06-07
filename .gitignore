@@ -3,4 +3,5 @@ __pycache__
 *.pyc
 *.sql
 *.json
+*.sql
 data
